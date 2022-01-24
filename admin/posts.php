@@ -53,7 +53,7 @@ require_once("includes/head.php");
                             $post_author = $row['post_author'];
                             $post_category_id = $row['post_category_id'];
                             $post_status = $row['post_status'];
-                           
+                            
                             $post_image = $row['post_image'];
                             $post_tags = $row['post_tags'];
                             $post_comment_count = $row['post_comment_count'];
